@@ -53,6 +53,6 @@ if __name__ == "__main__":
 # http://192.168.29.7:8080/mail
 # {
 #     "subject": "Testing email",
-#     "toMailId": "hishushekhawat@gmail.com",
+#     "toMailId": "to_mail_id",
 #     "mailBody" : "Hello Himanshu"
 # }
